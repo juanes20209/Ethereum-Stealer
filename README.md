@@ -38,3 +38,4 @@ Because most used apps for ethereum use only one main Derivation Path (to my sur
 My previous project for bitcoin is here: https:///Michal2SAB/Bitcoin-Stealer
 
 
+
